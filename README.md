@@ -23,8 +23,7 @@
 ## 🚀 Tecnologias Utilizadas  
 
 - ⚡ **HTML5**  
-- 🎨 **CSS3 / TailwindCSS / Bootstrap**  
-- 🖥️ **JavaScript**  
+- 🎨 **CSS3**
 - 🛠️ **Git & GitHub**  
 
 ---
