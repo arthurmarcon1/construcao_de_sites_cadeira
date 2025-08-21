@@ -18,12 +18,6 @@
 
 ---
 
-## 📸 Preview  
-
-<p align="center">  
-  <img src="https://via.placeholder.com/800x400.png?text=Preview+do+Site" alt="Preview do Site" />  
-</p>  
-
 ---
 
 ## 🚀 Tecnologias Utilizadas  
@@ -35,5 +29,4 @@
 
 ---
 
-## 📂 Estrutura do Projeto  
 
